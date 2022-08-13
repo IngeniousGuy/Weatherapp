@@ -1,0 +1,1 @@
+        # newsc.geometry("1000x600")
